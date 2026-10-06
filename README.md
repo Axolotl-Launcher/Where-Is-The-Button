@@ -48,6 +48,7 @@ node scripts/stills.mjs WhereIsTheLaunchButton 0-5219:120 out/review --sheet --s
 | Path | What it is |
 |---|---|
 | `design/STORYBOARD.md` | The build document: timeline (frames), shots, hand-offs, music map, SFX cue list |
+| `docs/session-log/` | Chronological record of how the film was made with Claude Code: the conversation, every command and file change, every sub-agent (exported from Claude Code's session transcripts by `scripts/export-session-log.py`) |
 | `design/concept-product.md` | Detailed shot cards the storyboard builds on |
 | `research/PRODUCT_BIBLE.md` | Verified product facts (palette, type, layouts, copy) + area reports `research/0*.md` |
 | `src/film/` | Global timeline (`timeline.ts`), camera helpers & projection, floors, cursor overlay, the `Film` composition |
