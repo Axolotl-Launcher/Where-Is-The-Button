@@ -1,0 +1,33 @@
+{
+  "name": "axolotl-where-is-the-launch-button",
+  "version": "1.0.0",
+  "private": true,
+  "description": "《启动按钮去哪了？》— an animated short for Axolotl Launcher (Remotion project)",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render WhereIsTheLaunchButton out/where-is-the-launch-button.mp4 --codec=h264 --crf=16 --audio-bitrate=320k --pixel-format=yuv420p",
+    "render:neutral": "remotion render WhereIsTheLaunchButton out/where-is-the-launch-button-neutral.mp4 --codec=h264 --crf=16 --audio-bitrate=320k --pixel-format=yuv420p --props={\"modIcons\":false}",
+    "render:master": "remotion render WhereIsTheLaunchButton out/master/where-is-the-launch-button-master.mov --codec=prores --prores-profile=hq",
+    "render:module": "node scripts/stills.mjs",
+    "audio": "python audio/mix.py",
+    "icons": "node scripts/gen-icons.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.533",
+    "@remotion/fonts": "^4.0.533",
+    "@remotion/media-utils": "4.0.533",
+    "@remotion/motion-blur": "4.0.533",
+    "@remotion/noise": "4.0.533",
+    "@remotion/paths": "4.0.533",
+    "@remotion/shapes": "4.0.533",
+    "@remotion/transitions": "4.0.533",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.533"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "5.9.3"
+  }
+}

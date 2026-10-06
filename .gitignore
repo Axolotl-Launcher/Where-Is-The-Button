@@ -1,0 +1,9 @@
+node_modules/
+out/
+upstream/
+audio/_demo/
+audio/__pycache__/
+audio/lib/__pycache__/
+research/_scratch/
+*.log
+__pycache__/
