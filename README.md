@@ -1,5 +1,17 @@
 **简体中文** | [English](README.en.md)
 
+<summary><strong>赞助与合作</strong></summary>
+
+感谢以下赞助商与合作伙伴对 Axolotl Launcher 的支持。
+
+<table>
+  <tr>
+    <td><img src="./.github/assets/codeflow-logo.png" width="72" alt="CodeFlow Logo" /></td>
+    <td><strong>CodeFlow</strong><br>更稳、更省地调用顶级 AI 模型<br>原生协议转发 · 无需海外网络 · 支付宝即充即用</td>
+    <td><a href="https://codeflow.sh/register?invite=4UHP2KYH">访问 CodeFlow</a></td>
+  </tr>
+</table>
+
 # 《启动按钮去哪了？》 · Axolotl Launcher 动画短片
 
 为 **Axolotl Launcher（美西螈启动器）** 制作的动画短片，时长 87 秒，1920 × 1080，60 帧。光标正要点击启动器里粉色的「开始游戏」按钮，按钮却顺势沉出了界面，带着光标在启动器的真实功能里一路追逐：发现内容的搜索框和安装流程、实例的内容列表、实验室、种子地图（它在这里变成名叫「启动按钮」的粉色标记），最后到投影工坊。直到工坊自带的「层间距」把整个启动器重新合拢，第三次按下，世界终于打开。
