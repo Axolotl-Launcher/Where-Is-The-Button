@@ -1,5 +1,18 @@
 [简体中文](README.md) | **English**
 
+<details open>
+<summary><strong>Sponsors &amp; Partners</strong></summary>
+
+Thanks to the following sponsors and partners for supporting Axolotl Launcher.
+
+<table>
+  <tr>
+    <td><img src="./.github/assets/codeflow-logo.png" width="72" alt="CodeFlow Logo" /></td>
+    <td><strong>CodeFlow</strong><br>Access top AI models more reliably and affordably<br>Native protocol forwarding · No overseas network required · Instant top-up with Alipay</td>
+    <td><a href="https://codeflow.sh/register?invite=4UHP2KYH">Visit CodeFlow</a></td>
+  </tr>
+</table>
+
 # 《启动按钮去哪了？》 · Axolotl Launcher animated short
 
 An 87-second, 1920 × 1080 / 60 fps animated short for **Axolotl Launcher（美西螈启动器）**. A cursor reaches for the launcher's pink 「开始游戏」 button, and the button sinks out of the interface and leads the cursor on a chase through the launcher's real features — Discover's search field and install flow, an instance's content list, the Lab, the seed map (where it becomes a pink marker named 「启动按钮」) and the 投影工坊 — until the workshop's own 「层间距」 control folds the whole launcher back together and the third press finally opens the world.
