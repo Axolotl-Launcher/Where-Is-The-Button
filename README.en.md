@@ -7,7 +7,7 @@ Thanks to the following sponsors and partners for supporting Axolotl Launcher.
 
 <table>
   <tr>
-    <td><img src="./.github/assets/codeflow-logo.png" width="72" alt="CodeFlow Logo" /></td>
+    <td><img src="./codeflow-logo.png" width="72" alt="CodeFlow Logo" /></td>
     <td><strong>CodeFlow</strong><br>Access top AI models more reliably and affordably<br>Native protocol forwarding · No overseas network required · Instant top-up with Alipay</td>
     <td><a href="https://codeflow.sh/register?invite=4UHP2KYH">Visit CodeFlow</a></td>
   </tr>
