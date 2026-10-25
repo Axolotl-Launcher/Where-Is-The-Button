@@ -1,14 +1,15 @@
 **简体中文** | [English](README.en.md)
 
-<summary><strong>赞助与合作</strong></summary>
+<details open>
+<summary><strong>Sponsors &amp; Partners</strong></summary>
 
-感谢以下赞助商与合作伙伴对 Axolotl Launcher 的支持。
+Thanks to the following sponsors and partners for supporting Axolotl Launcher.
 
 <table>
   <tr>
-    <td><img src="./codeflow-logo.png" width="72" alt="CodeFlow Logo" /></td>
-    <td><strong>CodeFlow</strong><br>更稳、更省地调用顶级 AI 模型<br>原生协议转发 · 无需海外网络 · 支付宝即充即用</td>
-    <td><a href="https://codeflow.sh/register?invite=4UHP2KYH">访问 CodeFlow</a></td>
+    <td><img src="./.github/assets/codeflow-logo.png" width="72" alt="CodeFlow Logo" /></td>
+    <td><strong>CodeFlow</strong><br>Access top AI models more reliably and affordably<br>Native protocol forwarding · No overseas network required · Instant top-up with Alipay</td>
+    <td><a href="https://codeflow.sh/register?invite=4UHP2KYH">Visit CodeFlow</a></td>
   </tr>
 </table>
 
